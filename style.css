@@ -1,0 +1,145 @@
+body{
+    font-family: Inika, serif;
+}
+.h1{
+    margin: 72px 0;
+    font-size: 40px;
+    font-weight: 700;
+}
+.line{
+    border-bottom: 5px solid #3E45E8;
+    width: 402px;
+}
+.line1{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 40px;  
+    border-bottom: 5px solid #3E45E8;
+    width: 402px;
+}
+.header{
+    padding: 25px;
+    min-height: 50px;
+    max-height: 103px;
+    text-align: center;
+    color: #3E45E8;
+    font-size: 48px;
+    font-weight: 400;
+    font-family: 'M PLUS 1', sans-serif;
+}
+.header-span{
+    color: #E8C23E
+}
+.header-span2{
+    color: #DFE31E;
+}
+.banner{
+    padding-top: 206px;
+    padding-left: 80px;
+    box-sizing: border-box;
+    height: 803px;
+    background-image: url("./img/Pic1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    color: white;
+    width: 70%;
+    font-size: 48px;
+    height: 272px;
+    padding-left: 3%;
+    background-image: url("./img/flag.png");
+    background-repeat: no-repeat;
+}
+.main{
+    padding: 0 80px;
+}
+.card{
+    background-size: 100%;
+    border-radius: 30px;
+    width: 30%;
+    display: inline-block;
+    overflow: hidden;
+    box-shadow: 0px 4px 4px 0px rgb(0 0 0 /25%) ;
+    overflow: hidden;
+}
+.cardMargin{
+    margin: 0 4%;
+}
+.cardImage{
+    width: 100%;
+}
+.cardTitle{
+    color: #1E8DF2;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.cardSubtitle{
+   color: #E8C23E;
+   font-weight: 400;
+   font-size: 20px;
+   padding: 10px;
+   box-sizing: border-box;
+}
+.lastBlock{
+    text-align: center;
+}
+.h{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 74px 350px;
+}
+.mapImage{
+    text-align: center;
+    height: 537px;
+    margin: 51px;
+}
+.support{
+    background-color: #2A61F0;
+    font-size: 64px;
+    color: white;
+    text-align: center;
+    width: 591px;
+    font-weight: 700;
+    box-sizing: border-box;
+    margin: 0 auto 31px;
+}
+.footer{
+    background-color: #2F4A4B;
+    height: 320px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.h2{
+    text-align: center;
+    font-size: 48px;
+    color: #3E45E8;
+    font-family: 'M PLUS 1', sans-serif;
+}
+.footer-email{
+    color: #A89D9D;
+    margin: 21px auto ;
+    width: 459px;
+    font-size: 36px;
+}
+.footer-phone{
+    color: #A89D9D;
+    margin: 21px auto ;
+    width: 355px;
+    font-size: 36px;
+}
+a:link {
+    color: #A89D9D;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: 400;
+    font-family: 'Marcellus SC', serif;
+    }
+.footer-images{
+    height: 63px;
+}
+    
+
